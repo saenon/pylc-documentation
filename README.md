@@ -12,7 +12,7 @@ This project is currently in progress and actively being developed.
 
 ## Related Repositories
 
-- [Authentication Service](https://github.com/saenon/pylc-auth) - Server authentication service
+- [Authentication Service](https://github.com/saenon/pylc-auth) - Authentication service
 
 ## Contribution
 

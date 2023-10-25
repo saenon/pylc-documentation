@@ -1,6 +1,6 @@
 # Last Chaos EP4 - Python Server Emulator
 
-Last chaos EP4 server emulator in Python 3.11.5
+Last chaos EP4 server emulator in Python 3.11.5 based on Raze 1776.
 ## Legal Disclaimer
 
 This project is a server emulator for the game Last Chaos. Using this software for private servers may violate the game's terms of service. The author is not responsible for any misuse of this software or any legal issues.
